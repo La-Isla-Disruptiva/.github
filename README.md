@@ -46,6 +46,8 @@ the information. Facebook changed the way we socialize. Tinder changed the way w
 These company do not propose better products. They do not propose appealing new products...
 These company simply offer us new social rules.
 
+Most of the time, its not a great change for individuals. More often that not, it ease our life or distract us in a funny way. But, at he same time, it have tremendous social impacts.
+
 ## A disruptive program tou shape the world your way
 
 As any one else, we do not know what will be the next game changing product to reach the market.
