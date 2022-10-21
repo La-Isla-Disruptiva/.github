@@ -3,16 +3,16 @@
 # La Isla Disruptiva
 
 Le monde d'aujourd'hui change sous l'impulsion du numérique.
-Ainsi, ceux qui contrôlent le code et le dévelopement logiciel contrôlent l'avenir.
+Ainsi, ceux qui contrôlent le code et le dévelopement logiciel façonnent l'avenir.
 
 C'est sur ce constat et sur notre volonté de prendre nos responsabilités envers le futur que repose La Isla Disruptiva.
 
-Sur La Isla Disruptiva, entre 2 piña colada, on apprend à coder son futur. 
+Sur La Isla Disruptiva, entre 2 piña colada, nous apprenons à coder notre futur. 
 
 ## Qu'est-ce qu'un développeur disruptif?
 
-Pour nous, le dévelopeur est un super-héro des temps modernes. Quelqu'un capable de résoudre nos problèmes, quelqu'un capable de créer des outils
-qui transforment notre vie. Espérons que ces transformations seront bénéfiques pour la société. Le dévelopeur disruptif est du bon côté. 
+Pour nous, le développeur est un super-héro des temps modernes. Quelqu'un capable de résoudre nos problèmes, quelqu'un capable de créer des outils
+qui transforment notre vie. Espérons que ces transformations seront bénéfiques pour la société. Le développeur disruptif est du bon côté. 
 
 Le développeur disruptif n'est pas qu'un codeur. Ce n'est pas qu'un exécutant. Il comprend nos problèmes et c'est à partir de ce matériau qu'il crée.
 
@@ -43,7 +43,7 @@ La pertinence de ce problème, son importance ou sa radicalité n'ont aucune imp
 #### Définissez un problème et écrire les requis utilisateurs
 
   - N'importe qui peut soumettre un problème à la communauté de La Isla Disruptiva. Pour ce faire, vous devez:
-    - Créez un repo git contenant la desciption du problème et les requis utilisateur dans la branche **main**.
+    - Créez un repo git contenant la description du problème et les requis utilisateur dans la branche **main**.
     - Le premier commit doit être vide.
     - Proposez à La Isla Disruptiva d'en faire un fork.
 
@@ -83,13 +83,13 @@ DESCRIPTION
 
   - Il y a 5 types de commits:
     - [spec]: Décrit le problème ou de la solution (requis, spécification, design, architecture, etc.).
-    - [red]: Déclare la prochaine fonctionalité qui sera développée (comprend un test qui échoue).
-    - [green]: Atteint un état stable d'implémentation d'une fonctionalité (permet à un test de réussir).
-    - [refactor]: Modifie une qualité du code sans effet sur les fonctionalitées.
+    - [red]: Déclare la prochaine fonctionnalité qui sera développée (comprend un test qui échoue).
+    - [green]: Atteint un état stable d'implémentation d'une fonctionnalité (permet à un test de réussir).
+    - [refactor]: Modifie une qualité du code sans effet sur les fonctionnalitées.
     - [doc]: Ajoute de la documentation (explication, démonstration, réflexion, commentaire, etc. )
 
   - Entre un commit [red] et [green], il peut y avoir des messages de commits sans [TYPE]. 
-  - La description permet de comprendre la "fonctionalité" et non pas seulement le détail d'implémentation.
+  - La description permet de comprendre la fonctionnalité et non pas seulement le détail d'implémentation.
   - Un développeur peut lire uniquement l'historique et reproduire une implémentation semblable.
 
 ### Autres technicalités

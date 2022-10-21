@@ -1,1 +1,2 @@
-LISEZMOI.md
+[FR](./LISEZMOI.md)
+[ES](./LEERME.md)
